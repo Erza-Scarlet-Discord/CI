@@ -15,11 +15,11 @@ Create the following environment variables or edit `config.json`
 
 ```json
 {
-'GITHUB_WEBHOOK' = "your webhook url",
-"REPO_URL" = "repository url",
-"GAUTH"= "github auth token if the repo is private",
-"RESTART" = "true OR false, this restarts the server after tests are passed and code is moved to working dir",
-"DISCORD_WEBHOOK" = "webhook url to discord for logging events"
+"GITHUB_WEBHOOK" : "your webhook url",
+"REPO_URL" : "repository url",
+"GAUTH": "github auth token if the repo is private",
+"RESTART" : "true OR false, this restarts the server after tests are passed and code is moved to working dir",
+"DISCORD_WEBHOOK" : "webhook url to discord for logging events"
 }
 ```
 
